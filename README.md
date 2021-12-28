@@ -12,9 +12,9 @@ as well just install it for your system and run it in your code editor or IDE.
 ## Usage
 
 Just install these packages on your device and install latest version of python.
-1 : pyttsx3
-2 : speech_recognition
-3 : wikipedia
+### 1 : pyttsx3
+### 2 : speech_recognition
+### 3 : wikipedia
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
