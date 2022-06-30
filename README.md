@@ -63,6 +63,11 @@ then install below package using pip.
    pip install wikipedia
 ```
 
+```bash
+   python3 main.py
+```
+
+
 ## 🚀 About Me
 I am An ambitious Computer Technology Engineering student with an optimistic attitude. I am always seeking opportunities to explore technological knowledge and excel in it.
 
